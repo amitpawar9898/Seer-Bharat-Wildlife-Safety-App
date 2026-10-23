@@ -1,0 +1,5 @@
+node_modules/
+seer_bharat.db
+seer_bharat.db-shm
+seer_bharat.db-wal
+.env
