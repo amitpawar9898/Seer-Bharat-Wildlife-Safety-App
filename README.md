@@ -8,7 +8,7 @@ Seer Bharat lets the public report wildlife sightings and gives Forest Departmen
 2. Open PowerShell in this project folder (the folder containing `docker-compose.yml`).
 3. Build and start the app:
 
-   ```powershell
+   ``powershell
    docker compose up --build -d
    ```
 
