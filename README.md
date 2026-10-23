@@ -39,10 +39,8 @@ Seer Bharat lets the public report wildlife sightings and gives Forest Departmen
 
 #How the system works
 
-<img width="520" height="95" alt="image" src="https://github.com/user-attachments/assets/ccfebc4a-91df-486a-b990-ad14359d0b55" />
+<img width="1392" height="707" alt="image" src="https://github.com/user-attachments/assets/b429fb08-d5e9-4a1b-a9fe-8a19a9bf99fc" />
 
-
-## Run with Docker Desktop (recommended on Windows)
 
 1. Start Docker Desktop and wait until it shows that the engine is running.
 2. Open PowerShell in this project folder (the folder containing `docker-compose.yml`).
