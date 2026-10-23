@@ -7,6 +7,36 @@ Seer Bharat lets the public report wildlife sightings and gives Forest Departmen
 
 <img width="481" height="975" alt="image" src="https://github.com/user-attachments/assets/c4dab849-ba6a-4ba4-905c-c4b070e2d818"/>
 
+#. Home Page — Wildlife Safety Dashboard
+
+<img width="855" height="660" alt="image" src="https://github.com/user-attachments/assets/d54d5f07-1d05-4519-9550-184e1d223d9c" />Forest Department — Active Alerts — Manage Wildlife Reports
+
+#Animal Report — Report Wildlife Sightings.
+
+<img width="530" height="975" alt="image" src="https://github.com/user-attachments/assets/0c34015f-db3a-448b-96fd-af9fd2322457" />
+
+#AI Analysis — Intelligent Animal Detection
+
+<img width="530" height="975" alt="image" src="https://github.com/user-attachments/assets/ee0aa867-8747-4624-9120-835eebc47e16" />
+
+#. Alerts Page — Real-Time Wildlife Alerts
+
+<img width="514" height="975" alt="image" src="https://github.com/user-attachments/assets/3b80eb8f-3299-437f-aa78-0568682b8b16" />
+
+#Forest Department — Active Alerts — Manage Wildlife Reports
+
+<img width="498" height="975" alt="image" src="https://github.com/user-attachments/assets/2d095850-08be-4eb3-b241-b10dca7535b0" />
+
+#Forest Department — Active Alerts — Manage Wildlife Reports
+
+<img width="512" height="975" alt="image" src="https://github.com/user-attachments/assets/360cdda7-ab88-4073-8499-9ab282bda832" />
+
+#Forest Department — Notifications — Instant Safety Notifications
+
+<img width="499" height="975" alt="image" src="https://github.com/user-attachments/assets/c9709f4a-782c-4472-8eae-dfeb7fad60e9" />
+
+
+
 ## Run with Docker Desktop (recommended on Windows)
 
 1. Start Docker Desktop and wait until it shows that the engine is running.
