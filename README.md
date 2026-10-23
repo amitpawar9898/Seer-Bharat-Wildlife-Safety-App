@@ -4,7 +4,8 @@ Seer Bharat lets the public report wildlife sightings and gives Forest Departmen
 
 
 #Login Page — Secure User Access
-<img width="481" height="975" alt="image" src="https://github.com/user-attachments/assets/c4dab849-ba6a-4ba4-905c-c4b070e2d818" />
+
+<img width="481" height="975" alt="image" src="https://github.com/user-attachments/assets/c4dab849-ba6a-4ba4-905c-c4b070e2d818"/>
 
 ## Run with Docker Desktop (recommended on Windows)
 
