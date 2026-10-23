@@ -9,7 +9,8 @@ Seer Bharat lets the public report wildlife sightings and gives Forest Departmen
 
 #. Home Page — Wildlife Safety Dashboard
 
-<img width="855" height="660" alt="image" src="https://github.com/user-attachments/assets/d54d5f07-1d05-4519-9550-184e1d223d9c" />Forest Department — Active Alerts — Manage Wildlife Reports
+<img width="855" height="660" alt="image" src="https://github.com/user-attachments/assets/d54d5f07-1d05-4519-9550-184e1d223d9c" />
+
 
 #Animal Report — Report Wildlife Sightings.
 
